@@ -11,7 +11,7 @@ This approach was successful and I allowed making predictions for the behavioral
 
 Be carefull when you decide right or left! :)
 
-![Fish escaping](Unsupervised_clustering/fishDecides_v5_small.gif)
+![Fish escaping](Clustering/fishDecides_v5_small.gif)
 
 
 Gif credit to Julia Kuhl (https://twitter.com/mulesome)
