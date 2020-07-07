@@ -9,7 +9,7 @@ Based on these results I decided to use a modeling approach that is based on two
 This approach was successful and I allowed making predictions for the behavioral outcome when animals are confronted with two competing stimuli (in this case two aversive stimuli, looming)
 
 
-Be carefull when you decide right or left! :)
+Be carefull when you decide to turn right or left! :)
 
 ![Fish escaping](Clustering/fishDecides_v5_small.gif)
 
