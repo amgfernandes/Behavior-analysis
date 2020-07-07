@@ -22,3 +22,5 @@ escapes in our model by redistributing backward swims to other headings. The win
 # Answer: YES! Modeling reveals that fish larvae use a combination of WTA and averaging strategies
 
 For more details see the following publication: https://www.biorxiv.org/content/10.1101/598383v1
+
+The modeling approach was performed with great help of my great friend Joe Donovan (https://github.com/joe311).
