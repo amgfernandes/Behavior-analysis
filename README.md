@@ -4,7 +4,8 @@ Behavior analysis of zebrafish decision making
 
 I tried Clustering (see folder Clustering) but that approach did not lead to meaningful conclusions.
 
-Based on these results I decided to use a modeling approach that is based on two famous models for decision-making: Averaging and WTA.
+Based on these results I decided to use a modeling approach that is based on two famous models for decision-making: Averaging and WTA. 
+See folder WTA_vs_Averaging_modeling
 
 This approach was successful and allowed making predictions for the behavioral outcome when animals are confronted with two competing stimuli (in this case two aversive stimuli, looming)
 
