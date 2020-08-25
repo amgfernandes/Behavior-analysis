@@ -10,7 +10,7 @@ attention exist in many species, including flies, fish and mice.
 Winner-take-all (WTA) computations, in which an animal
 responds to a single stimulus out of many, are considered to be crucial during bottom-up, stimulus-driven attention (Itti and Koch, 2001). In addition to WTA mechanisms, evidence suggests that presentation of multiple visual stimuli in primates can also lead to gaze shifts toward the mean location of the stimuli. 
 See for example the following publication:
-https://www.jneurosci.org/content/17/19/7490
+https://www.jneurosci.org/content/17/19/7490.
 
 
 To estimate the relative contributions of each strategy, we fit the data with
