@@ -20,3 +20,6 @@ Gif credit to Julia Kuhl (https://twitter.com/mulesome)
 The modeling approach under the folder WTA_vs_Averaging_modeling was performed with the great help of Joe Donovan (https://github.com/joe311). 
 
 Some of the helper functions for preprocessing the data (see Preprocessing behavioral data folder) were written with the help of Johannes Larsch (https://github.com/jlarsch).
+
+Related to https://www.biorxiv.org/content/10.1101/598383v1
+
